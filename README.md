@@ -1,6 +1,6 @@
 # SpontaneousAlternations
 
-Automated analysis for a *Spontaneous Alternations Task* for mice. This script includes data post processing and individual/group analysis.
+Automated analysis for a *Spontaneous Alternations Task* for mice. When finished, this script should include data post processing and individual/group analysis for the experiment.
 
 
 **Spontaneous Alternation Task**
